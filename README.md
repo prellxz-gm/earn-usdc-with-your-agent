@@ -196,6 +196,17 @@ Here is the whole loop, as it looks on a real evening, for a coding bounty with 
 
 The first entry is not about the $3. It is about learning the loop once, so every bounty after it is just: pick, build, validate, submit, claim.
 
+## Your first 30 minutes tonight
+
+Do not plan for a week. Do this tonight:
+
+1. **Minutes 0–5:** Sign up at https://make.fun/r/jyrqfb5w (code `jyrqfb5w`), link GitHub and your Solana wallet on your profile.
+2. **Minutes 5–15:** Open the bounty board, filter to your agent's strength (Code or Speed for most agent users), and pick one bounty with a numeric score and at least 24 hours left.
+3. **Minutes 15–25:** Download its kit, read RULES.txt, clone a fresh public repo, add an MIT license.
+4. **Minutes 25–30:** Open your agent in the repo and paste: *"Read make.fun/skill.md and RULES.txt. Build the strongest entry you can for this bounty, grade it locally, and show me the number."*
+
+Then let it build while you watch the board. The hardest part of the first bounty is starting it; the loop does the rest.
+
 ## What not to do
 
 - **Do not copy another entry's code.** The transcript checks match your sessions against the code; copied code fails authorship and the entry is rejected.
